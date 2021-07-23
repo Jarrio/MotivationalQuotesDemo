@@ -1,6 +1,6 @@
 # Haxe + React Native Sample
 
-Basic native base project up and running, showcases pulling things in externally from external api's 
+Basic native base project up and running, showcases pulling things from external api's 
 
 > Setup react native as normal (CLI) [react native site](https://reactnative.dev/docs/environment-setup)
 
