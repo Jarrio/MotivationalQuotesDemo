@@ -1,0 +1,19 @@
+{
+	"name": "react-native",
+	"classPath": "src",
+	"dependencies": {
+		"react-next": ""
+	},
+	"url": "https://github.com/haxe-react/haxe-react-native",
+	"contributors": [
+		"kevinresol",
+		"zabojad"
+	],
+	"version": "0.2.1",
+	"releasenote": "Various updates",
+	"tags": [
+		"react",
+		"native"
+	],
+	"license": "MIT"
+}

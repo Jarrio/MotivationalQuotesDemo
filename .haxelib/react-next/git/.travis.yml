@@ -1,0 +1,26 @@
+language: haxe
+
+haxe:
+  - 3.4.4
+  - stable
+  - 4.0.0-preview.4
+  - development
+
+matrix:
+  allow_failures:
+    - haxe: development
+
+install:
+  - haxelib install munit
+  - haxelib install hxnodejs
+  - haxelib install tink_hxx
+
+script:
+  - haxelib run munit test -js
+
+# deploy:
+#   - provider: script
+#     haxe: 3.4.4
+#     script: bash ./releaseHaxelib.sh $HAXELIB_USER $HAXELIB_PWD
+#     on:
+#       tags: true
