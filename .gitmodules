@@ -4,3 +4,6 @@
 [submodule ".haxelib\\react-native\\git"]
 	path = .haxelib/react-native/git
 	url = https://github.com/haxe-react/react-native.git
+[submodule ".haxelib\\react-nativebase\\git"]
+	path = .haxelib\\react-nativebase\\git
+	url = https://github.com/Jarrio/haxe-native-base.git
