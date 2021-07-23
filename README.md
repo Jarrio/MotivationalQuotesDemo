@@ -1,17 +1,22 @@
 # Haxe + React Native Sample
 
-Barebone sample for building a React Native project from Haxe.
+Basic native base project up and running, showcases pulling things in externally from external api's 
 
-Required Haxe version: 3.3.0-rc1 or later.
+> Setup react native as normal (CLI) [react native site](https://reactnative.dev/docs/environment-setup) as normal
 
 ## Usage
 
 ```bash
-yarn global add react-native-cli # or `npm install -g react-native-cli`
-git clone --recursive https://github.com/haxe-react/haxe-react-native-sample
-cd haxe-react-native-sample
-haxe ios.hxml && haxe android.hxml
+#recursively clone the repo
+git clone --recursive https://github.com/Jarrio/MotivationalQuotesDemo
+#enter the directory
+cd MotivationalQuotesDemo
+#compile the project
+haxe android.hxml
+#enter bin directory
 cd bin
-yarn # or `npm install`
-react-native run-ios # or `react-native run-android`
+#install modules
+npm install
+#run on device/emulator
+react-native run-android
 ```
