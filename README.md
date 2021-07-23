@@ -2,7 +2,7 @@
 
 Basic native base project up and running, showcases pulling things in externally from external api's 
 
-> Setup react native as normal (CLI) [react native site](https://reactnative.dev/docs/environment-setup) as normal
+> Setup react native as normal (CLI) [react native site](https://reactnative.dev/docs/environment-setup)
 
 ## Usage
 
