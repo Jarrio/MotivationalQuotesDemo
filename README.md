@@ -5,7 +5,7 @@ Basic native base project up and running, showcases pulling things from external
 > Setup react native as normal (CLI) [react native site](https://reactnative.dev/docs/environment-setup)
 
 ## Usage
-*Tip: Press the "copy" button in the top right corner of the box below and paste into a terminal for a completely "automated" setup*
+*Tip: Press the "copy" button in the top right corner of the box below and paste into a terminal for a completely "automated" setup **(if you have setup rn)***
 ```bash
 #recursively clone the repo
 git clone --recursive https://github.com/Jarrio/MotivationalQuotesDemo
