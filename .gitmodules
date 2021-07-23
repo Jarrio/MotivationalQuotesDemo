@@ -1,0 +1,9 @@
+[submodule "react-next"]
+	path = .haxelib/react-next/git
+	url = https://github.com/kLabz/haxe-react.git
+[submodule "react-native"]
+	path = .haxelib/react-native/git
+	url = https://github.com/haxe-react/react-native.git
+[submodule ".haxelib\\react-nativebase\\git"]
+	path = .haxelib\\react-nativebase\\git
+	url = https://github.com/Jarrio/haxe-native-base.git
