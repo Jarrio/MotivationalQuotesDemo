@@ -20,3 +20,5 @@ npm install
 #run on device/emulator
 react-native run-android
 ```
+
+![image](https://user-images.githubusercontent.com/748557/126830150-5834948f-fce1-4044-bd6e-4296205b8fa3.png)
